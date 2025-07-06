@@ -1,10 +1,9 @@
 streamlit
-pandas
 numpy
-cv2
-scikit-learn
+opencv-python-headless
+pandas
+Pillow
 tensorflow
-xgboost
 joblib
-os
-string
+xgboost
+scikit-learn
