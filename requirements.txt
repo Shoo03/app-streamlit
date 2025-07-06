@@ -1,9 +1,9 @@
-streamlit
+streamlit==1.26.0
 numpy
 opencv-python-headless
 pandas
 Pillow
-tensorflow
+tensorflow==2.13.0
 joblib
 xgboost
 scikit-learn
