@@ -1,0 +1,10 @@
+streamlit
+pandas
+numpy
+cv2
+scikit-learn
+tensorflow
+xgboost
+joblib
+os
+string
